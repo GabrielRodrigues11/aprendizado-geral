@@ -12,6 +12,7 @@ Este repositório contém vários exercícios práticos desenvolvidos durante me
 - `06_tratamento_erros`: uso de `try/except` e tipos de erro
 - `07_texto`: manipulação de strings
 - `08_desafios_finais`: pequenos projetos e exercícios completos
+- `sql`: funcoes, strings, subqueries, comandos basicos, usuarios, view
 
 ## 💡 Objetivo
 
@@ -19,4 +20,4 @@ Este repositório foi criado para reforçar minha base em Python com foco em ló
 
 ---
 
-📌 **Em progresso**: Integração com projetos reais e estudo de MySQL e Power BI.
+📌 **Em progresso**: Integração com projetos reais e estudo de Power BI.
